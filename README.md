@@ -3,7 +3,7 @@ Red neuronal recurrente LSTM para discriminar noticias falsa a partir de la comp
 
 ## Fake-News-dataset 
 https://www.kaggle.com/datasets/abaghyangor/fake-news-dataset
-*Licenced by MIT*
+*-Licenced by MIT*
 
 ## Resumen del proyecto
 El objetivo de este proyecto es determinar si se puede discriminar si una noticia es verdadera o falsa solamente a partir de la sintaxis y estructura utilizada, 
